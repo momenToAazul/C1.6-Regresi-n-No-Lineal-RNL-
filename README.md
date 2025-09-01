@@ -16,4 +16,8 @@ El propósito de este análisis es evaluar dicha hipótesis y determinar si debe
 
 ## **Documentos**
 
+- [Reporte en formato .ipynb](./RNL_Reporte.ipynb)  
+- [Reporte en formato .html](./RNL_Reporte.html)  
+- [Reporte en formato .pdf](./RNL_Reporte.pdf)  
+- [Base de datos .csv](./A1.6TiempodeEntrega.csv)  
 
